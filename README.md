@@ -1,4 +1,4 @@
-![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b){ width: 50%; height: 50%}
+![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b =500x200)
 ### Hi there 👋
 ![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0)
 
