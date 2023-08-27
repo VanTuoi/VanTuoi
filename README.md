@@ -23,7 +23,15 @@ Here are some ideas to get you started:
   -  My name is: Trần Văn Tươi
   -  I am a student at Can Tho University
   -  My major is Software Engineering
-  -  I'm learning: <span><img src="https://img.shields.io/badge/Java-2" alt="Java logo" title="Java" height="25" /></span>
+  -  I'm learning:
+     <span><img src="https://img.shields.io/badge/Java-2" alt="Java logo" title="Java" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/React-2?color=yellow" alt="React logo" title="React" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/Redux-2?color=purple" alt="Redux logo" title="Redux" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/JavaScript-2?color=blue" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/HTML-2?color=red" alt="HTML logo" title="HTML" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/CSS-2?color=yellow" alt="CSS logo" title="CSS" height="25" /></span>
+    <span><img src="https://img.shields.io/badge/SQL%20Server-2?color=red" alt="SQLserver logo" title="SQL server" height="25" /></span>
+  
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎓 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, I am styding
 - 🤔 I plan to become a Developer
