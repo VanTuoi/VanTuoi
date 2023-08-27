@@ -1,6 +1,6 @@
 ![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b)
 ### Hi there 👋
-![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0)
+![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0){ width: 50%; height: 50%}
 
 <!--
 **VanTuoi/VanTuoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
