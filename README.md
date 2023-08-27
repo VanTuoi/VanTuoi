@@ -1,5 +1,5 @@
 <!-- ![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b)? -->
-![depositphotos_31769985-stock-photo-who-are-you](https://github.com/VanTuoi/VanTuoi/assets/111668239/578de6f0-986e-437f-a69f-c3156b29bb41)
+![rounded-in-photoretrica](https://github.com/VanTuoi/VanTuoi/assets/111668239/a3897b70-4953-455f-a10e-2e1a9cb05bbf)
 ### Hi there 👋
 ![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0)
 
