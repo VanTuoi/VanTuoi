@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   -  My name is: Trần Văn Tươi
   -  I am a student at Can Tho University
   -  My major is Software Engineering
-  -  I'm learning:
+  -  I'm learning: <br/>
      <span><img src="https://img.shields.io/badge/Java-2" alt="Java logo" title="Java" height="25" /></span>
      <span><img src="https://img.shields.io/badge/React-2?color=yellow" alt="React logo" title="React" height="25" /></span>
      <span><img src="https://img.shields.io/badge/Redux-2?color=purple" alt="Redux logo" title="Redux" height="25" /></span>
