@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   -  I am a student at Can Tho University
   -  My major is Software Engineering
   -  I'm learning: <span><img src="https://img.shields.io/badge/Java-2" alt="Java logo" title="Java" height="25" /></span>
-
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎓 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, I am styding
 - 🤔 I plan to become a Developer
