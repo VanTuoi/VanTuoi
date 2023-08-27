@@ -1,6 +1,5 @@
 <!-- ![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b)? -->
 ![rounded-in-photoretrica](https://github.com/VanTuoi/VanTuoi/assets/111668239/e03c5c00-da83-4332-99d8-7c071656a296)
-### Hi there 👋
 ![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0)
 
 <!--
@@ -17,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, Nice to meet you 👋
+ - I'm a student and I'm trying to do my best
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
   -  My name is: Trần Văn Tươi
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
 - 🎓 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, I am styding
 - 🤔 I plan to become a Developer
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
+-  𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
