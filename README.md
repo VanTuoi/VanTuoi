@@ -1,6 +1,7 @@
 <!-- ![img_1](https://github.com/VanTuoi/VanTuoi/assets/111668239/41bb12a8-0f0a-4fee-9482-03590e6ba86b)? -->
 ![rounded-in-photoretrica](https://github.com/VanTuoi/VanTuoi/assets/111668239/e03c5c00-da83-4332-99d8-7c071656a296)  
-![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0)
+<!-- ![visitors](https://vbr.wocr.tk/badge?page_id=VanTuoi.VanTuoi&color=00cf0) -->
+![visitors](https://komarev.com/ghpvc/?username=VanTuoi&color=blue&style=flat-square)
 
 <!--
 **VanTuoi/VanTuoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
