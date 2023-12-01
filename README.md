@@ -31,7 +31,8 @@ Here are some ideas to get you started:
      <span><img src="https://img.shields.io/badge/JavaScript-2?color=blue" alt="JavaScript" title="JavaScript" height="25" /></span>
      <span><img src="https://img.shields.io/badge/HTML-2?color=red" alt="HTML" title="HTML" height="25" /></span>
      <span><img src="https://img.shields.io/badge/CSS-2?color=yellow" alt="CSS" title="CSS" height="25" /></span>
-    <span><img src="https://img.shields.io/badge/SQL%20Server-2?color=red" alt="SQLserver" title="SQL server" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/SQL%20Server-2?color=red" alt="SQLserver" title="SQL server" height="25" /></span>
+     <span><img src="https://img.shields.io/badge/NodeJS-2" alt="NodeJS" title="NodeJS" height="25" /></span>
   
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎓 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, I am styding
