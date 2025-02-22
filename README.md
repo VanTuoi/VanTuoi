@@ -27,7 +27,7 @@ I’m currently working with:
 
 ---
 
-## 🌟 **GitHub Stats**
+## 🌟 **Top Langs**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanTuoi&layout=compact&theme=radical)
 
 ---
