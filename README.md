@@ -60,7 +60,7 @@ I’m currently working with:
 ---
 
 ## ⚡ **Fun Fact**
-🐟 **I love fish!** (And coding of course 😆)
+🐟 **I love nature!** (And coding of course 😆)
 
 ---
 
