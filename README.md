@@ -64,5 +64,5 @@ I’m currently working with:
 
 ---
 
-Cảm ơn bạn đã ghé thăm profile của tôi! 🌟  
+Thanks for visiting my profile! 🌟  
 ![visitors](https://komarev.com/ghpvc/?username=VanTuoi&color=blue&style=flat-square)
